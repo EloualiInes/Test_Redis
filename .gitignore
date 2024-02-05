@@ -1,0 +1,5 @@
+# Dépendances
+node_modules/
+
+# Dossier de build
+dist/
